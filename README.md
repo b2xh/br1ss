@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Back-end Developer (Web scraping on NodeJS & Python).
+## Back-end Developer.
 
 
 ## Languages and Tools 🛠 
