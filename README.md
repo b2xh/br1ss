@@ -12,10 +12,8 @@ Hello, I am Hasan 18 years old, I live in Turkey. I've been working with softwar
 - JavaScript (%90)
 - Python (%35)
 - Rust (%20)
-- Jsdom (%50)
 - Git (%55)
 - Npm (%80)
 - Yarn (%85)
 - NodeJS (%90)
-- Cheerio (%60)
 ...
