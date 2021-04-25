@@ -23,7 +23,7 @@ Tools:
    - Git
    - Yarn
    - Linux (NEW)
-   - HTML
-   - CSS (NEW):
+   - Html
+   - Css (NEW):
       - TailwindCSS (NEW)
 ```
