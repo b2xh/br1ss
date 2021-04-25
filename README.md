@@ -12,9 +12,7 @@ JavaScript/TypeScript:
    - Discord.js
    - Eris
 
-Database:
-   - MongoDB
-   - SQlite
+Database/MongoDB
 
 Python:
    - Flask (NEW)
@@ -24,7 +22,7 @@ Tools:
    - Npm
    - Git
    - Yarn
-   - Linux
+   - Linux (NEW)
    - HTML
    - CSS (NEW):
       - TailwindCSS (NEW)
