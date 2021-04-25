@@ -25,4 +25,7 @@ Tools:
    - Git
    - Yarn
    - Linux
+   - HTML
+   - CSS (NEW):
+      - TailwindCSS (NEW)
 ```
